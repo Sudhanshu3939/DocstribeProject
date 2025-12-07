@@ -126,7 +126,7 @@ The next review is scheduled for 2025-12-10 according to the care plan.
 ```
 
 
-## Future Improvements (Optional)
+## Future Improvements
 
 - Add Chroma or FAISS for scalable vector retrieval  
 - Deploy via FastAPI  
