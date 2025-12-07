@@ -1,0 +1,26 @@
+{
+    "id": "P001",
+    "name": "Aarti Sharma",
+    "age": 32,
+    "sex": "F",
+    "conditions": [
+        "Gestational Diabetes",
+        "Iron-deficiency Anemia"
+    ],
+    "care_plan": "12-week antenatal care: weekly fasting and post-prandial glucose monitoring; start oral iron supplement (60mg elemental) daily; nutrition counseling and follow-up. Next review scheduled on 2025-12-10 for glycemic control assessment.",
+    "timeline": [
+        {
+            "date": "2025-11-20",
+            "text": "First antenatal visit; baseline labs collected."
+        },
+        {
+            "date": "2025-11-25",
+            "text": "Nutrition counselling given; advised diet changes."
+        },
+        {
+            "date": "2025-12-01",
+            "text": "Fasting glucose elevated; advised stricter monitoring."
+        }
+    ],
+    "notes": "Patient reports fatigue and mild dizziness. Adherent to diet but occasional missed doses of iron. Will monitor BP and glucose at home."
+}

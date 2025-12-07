@@ -1,0 +1,6 @@
+sentence-transformers
+numpy
+langchain-text-splitters
+python-dotenv
+scikit-learn
+huggingface-hub
